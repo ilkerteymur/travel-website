@@ -1,4 +1,4 @@
-# Travel Site Project (Full Resposive)
+# Travel Site Project (Full Responsive)
 
 ## What i practice
 
