@@ -104,20 +104,6 @@ img {
   position: relative;
 }
 
-.nav__link::after {
-  content: "";
-  width: 0;
-  height: 2px;
-  position: absolute;
-  left: 0;
-  bottom: -0.5rem;
-  transition: width 0.3s;
-}
-
-.nav__link:hover::after {
-  width: 70%;
-}
-
 .nav__close {
   position: absolute;
   top: 1rem;
